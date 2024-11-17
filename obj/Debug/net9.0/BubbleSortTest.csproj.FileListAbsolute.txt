@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\BubbleSortTest\BubbleSortTest\obj\Debug\net9.0\BubbleSortTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\BubbleSortTest\BubbleSortTest\obj\Debug\net9.0\BubbleSortTest.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BubbleSortTest\BubbleSortTest\obj\Debug\net9.0\BubbleSortTest.AssemblyInfo.cs
+C:\Users\user\Desktop\BubbleSortTest\BubbleSortTest\obj\Debug\net9.0\BubbleSortTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BubbleSortTest\BubbleSortTest\bin\Debug\net9.0\BubbleSortTest.exe
+C:\Users\user\Desktop\BubbleSortTest\BubbleSortTest\bin\Debug\net9.0\BubbleSortTest.deps.json
+C:\Users\user\Desktop\BubbleSortTest\BubbleSortTest\bin\Debug\net9.0\BubbleSortTest.runtimeconfig.json
+C:\Users\user\Desktop\BubbleSortTest\BubbleSortTest\bin\Debug\net9.0\BubbleSortTest.dll
+C:\Users\user\Desktop\BubbleSortTest\BubbleSortTest\bin\Debug\net9.0\BubbleSortTest.pdb
+C:\Users\user\Desktop\BubbleSortTest\BubbleSortTest\obj\Debug\net9.0\BubbleSortTest.dll
+C:\Users\user\Desktop\BubbleSortTest\BubbleSortTest\obj\Debug\net9.0\refint\BubbleSortTest.dll
+C:\Users\user\Desktop\BubbleSortTest\BubbleSortTest\obj\Debug\net9.0\BubbleSortTest.pdb
+C:\Users\user\Desktop\BubbleSortTest\BubbleSortTest\obj\Debug\net9.0\BubbleSortTest.genruntimeconfig.cache
+C:\Users\user\Desktop\BubbleSortTest\BubbleSortTest\obj\Debug\net9.0\ref\BubbleSortTest.dll
